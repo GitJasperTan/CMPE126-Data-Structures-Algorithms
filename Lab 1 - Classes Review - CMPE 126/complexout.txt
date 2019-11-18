@@ -1,2 +1,0 @@
-Summation of imaginary numbers is shown below: 
-46-70j
