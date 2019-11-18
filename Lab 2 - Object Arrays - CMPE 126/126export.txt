@@ -1,0 +1,11 @@
+Saved results: 
+1. Real: 1 Imag: 1j  Value: 2
+2. Real: 2 Imag: 2j  Value: 8
+3. Real: 4 Imag: -2j  Value: 20
+4. Real: 3.3 Imag: 3.4j  Value: 22.45
+5. Real: -6 Imag: 0j  Value: 36
+6. Real: 4.4 Imag: -4.5j  Value: 39.61
+7. Real: 0 Imag: 7j  Value: 49
+8. Real: 4 Imag: -6j  Value: 52
+9. Real: -5.5 Imag: -5.6j  Value: 61.61
+10. Real: 0 Imag: -8j  Value: 64
